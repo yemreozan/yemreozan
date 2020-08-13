@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://media3.giphy.com/media/nzIxV42OvTT6U/giphy.gif)
+
 <!--
 **yemreozan/yemreozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
